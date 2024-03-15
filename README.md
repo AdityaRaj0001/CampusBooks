@@ -1,10 +1,10 @@
 
+![image](https://github.com/AdityaRaj0001/CampusBooks/assets/92699283/17dcef21-16ed-41f3-9fb0-8fad1c256163)
+![image](https://github.com/AdityaRaj0001/CampusBooks/assets/92699283/7193d23a-2a42-4390-a7cc-696a44d9baea)
+
 
 ```markdown
 # CampusBooks Project
-
-![image](https://github.com/AdityaRaj0001/CampusBooks/assets/92699283/8e53dc22-cc03-41c6-82fa-bc10b0d347cb)
-![image](https://github.com/AdityaRaj0001/CampusBooks/assets/92699283/42603d17-8a89-449e-a62d-0925095b5147)
 
 
 ## Overview
