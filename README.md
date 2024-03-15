@@ -1,7 +1,11 @@
-Sure, here's a template for your README.md file:
+
 
 ```markdown
 # CampusBooks Project
+
+![image](https://github.com/AdityaRaj0001/CampusBooks/assets/92699283/8e53dc22-cc03-41c6-82fa-bc10b0d347cb)
+![image](https://github.com/AdityaRaj0001/CampusBooks/assets/92699283/42603d17-8a89-449e-a62d-0925095b5147)
+
 
 ## Overview
 CampusBooks is a CRUD-based application built using the MERN stack. It allows users to manage books within a campus environment. This project utilizes an API to communicate with the database and the useContext hook of React to reflect changes to the state across different components.
