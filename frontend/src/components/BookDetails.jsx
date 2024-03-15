@@ -24,9 +24,9 @@ const BookDetails = ({ book }) => {
     );
 
     if (resp.data) {
-      // Update book details in the state
+     
       dispatch({ type: 'UPDATE_BOOK', payload: resp.data });
-      // Close the modal
+    
       setShowModal(false);
     }
   };

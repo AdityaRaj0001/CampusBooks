@@ -13,13 +13,10 @@ const getBooks = async (req, res) => {
   res.status(200).json(books);
 };
 
-
-
 // create a book
 
 const createBook = async (req, res) => {
   const { Name, Author, Genre } = req.body;
-  
 
   //add to database
   try {
