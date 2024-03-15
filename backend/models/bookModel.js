@@ -2,19 +2,19 @@ const mongoose=require("mongoose")
 
 const Schema=mongoose.Schema
 
-const companySchema=new Schema({
+const bookSchema=new Schema({
     Name:{
         type:String,
         required:true
     },
-    Cg_Criteria:{
-        type:Number,
+    Author:{
+        type:String,
         required:true
     },
-    Domain:{
+    Genre:{
         type:String,
         required:true
     }
 },{timestamps:true})
 
-module.exports=mongoose.model('Company',companySchema)
+module.exports=mongoose.model('Book',bookSchema)
